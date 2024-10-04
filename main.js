@@ -19,7 +19,8 @@ const headerContent =  `<header>
                <li><button class="close-menu" id="close-menu">&times;</button></li>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="apparel.html">Apparel</a></li>
-
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact Us</a></li>
             </ul>
         </nav>
     </div>
